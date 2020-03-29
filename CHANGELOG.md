@@ -1,8 +1,9 @@
 ### Changelog
 
-#### 2020.1.106-beta
-released 2019-03-02
+#### 2020.1.115
+released 2019-03-30
 
+* Linux: Provide AppImage package based on linuxdeployqt
 * Make content of help dialogs selectable (issue [#805](https://github.com/CoatiSoftware/Sourcetrail/issues/935))
 * Added keyboard controls to move and activate focus in graph and code views using WASD/HJKL/Arrows + Enter/E ([#935](https://github.com/CoatiSoftware/Sourcetrail/issues/935)) (issues [#486](https://github.com/CoatiSoftware/Sourcetrail/issues/486), [#327](https://github.com/CoatiSoftware/Sourcetrail/issues/327), [#214](https://github.com/CoatiSoftware/Sourcetrail/issues/214), [#210](https://github.com/CoatiSoftware/Sourcetrail/issues/210))
 * Fixed a crash in shared memory use ([#912](https://github.com/CoatiSoftware/Sourcetrail/issues/912))
